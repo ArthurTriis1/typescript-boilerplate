@@ -1,5 +1,3 @@
-function main(message: string) {
-	console.log(message);
-}
+import { main } from "@src/main";
 
 main("Hello World");
